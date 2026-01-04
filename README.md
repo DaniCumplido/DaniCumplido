@@ -6,7 +6,7 @@ I'm a Junior Web Developer
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [danicumplido04@gmail.com](mailto:danicumplido04@gmail.com)
-* 🚀  I'm currently working on [DXC Technology](http://dxc.com/us/en)
+* 🚀  I'm currently working for [DXC Technology](http://dxc.com/us/en)
 * 🧠  I'm learning React, Node.js, Express and AWS
 * 🤝  I'm open to collaborating on frontend projects
 
